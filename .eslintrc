@@ -1,0 +1,17 @@
+{
+	"globals": {
+    "angular": false,
+    "io": false,
+    "jQuery": false,
+    "require": false
+  },
+	"env": {
+    "browser": true,
+    "node": true
+  },
+  "extends": "eslint:recommended",
+  "rules": {
+    "semi": 1,
+    "comma-dangle": [2, "never"]
+  }
+}
