@@ -1,6 +1,6 @@
 {
   "name": "catbox-data-cache",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "IBM BlueMix Data-Cache adapter for catbox",
   "main": "lib/index.js",
   "scripts": {
