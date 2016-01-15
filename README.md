@@ -8,4 +8,14 @@ IBM BlueMix Data-Cache adapter for catbox
 ### Options
 
 - `credentials` - the IBM BlueMix Data-Cache credentials object.
-- `partition` - the DataCache map, defaults to Bluemix default
+
+### Example with glue
+
+```
+server: {
+  cache: {
+    engine: 'catbox-data-cache',
+    credentials: credentials['DataCache-1.0'][0].credentials
+  }
+}
+```
