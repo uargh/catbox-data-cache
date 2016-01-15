@@ -7,4 +7,4 @@ IBM Data-Cache can only be used by deployed applications. As soon as this module
 ### Options
 
 - `credentials` - the IBM BlueMix Data-Cache credentials object.
-- `map` - the DataCache map, defaults to Bluemix default
+- `partition` - the DataCache map, defaults to Bluemix default
