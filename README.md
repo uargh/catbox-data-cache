@@ -1,8 +1,9 @@
 # catbox-data-cache
 IBM BlueMix Data-Cache adapter for catbox
 
-# Not working yet! - Still in development!
-IBM Data-Cache can only be used by deployed applications. As soon as this module works, this notice will be removed.
+# Features
+* cache.drop/cache.get/cache.set - Works
+* caching for server.methods.* - Works
 
 ### Options
 
